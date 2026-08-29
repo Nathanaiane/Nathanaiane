@@ -49,7 +49,7 @@
 
 </div>
 
-Olá! 👋 Sou Nathanaiane, estudante de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento Back-end.
+Olá! 👋 Sou Nathanaiane, estudante de Análise e Desenvolvimento de Sistemas.
 
 Tenho interesse em transformar ideias e problemas em soluções por meio da tecnologia. Atualmente, estou aprofundando meus conhecimentos em C#, .NET, APIs, Python, bancos de dados, Git e GitHub, sempre buscando colocar o aprendizado em prática por meio de projetos.
 
