@@ -1,6 +1,6 @@
 <div align="center">
 
-# ฅ^•ﻌ•^ฅ NATHANAIANE ฅ^•ﻌ•^ฅ
+# 🐱 NATHANAIANE 🐱
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=750&lines=INITIALIZING+NATHANAIANE.OS...;SYSTEM+ONLINE+%E2%9C%93;BACK-END+DEVELOPER+IN+PROGRESS;C%23+%7C+.NET+%7C+PYTHON+%7C+APIs;BUILDING+THE+FUTURE%2C+ONE+LINE+AT+A+TIME..." alt="Typing Animation" />
 
