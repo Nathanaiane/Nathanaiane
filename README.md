@@ -49,11 +49,11 @@
 
 </div>
 
-Sou uma profissional em **transição para a área de Tecnologia**, atualmente estudando **Análise e Desenvolvimento de Sistemas** e direcionando minha carreira para o **desenvolvimento Back-end**.
+Olá! 👋 Sou Nathanaiane, estudante de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento Back-end.
 
-Minha jornada combina uma formação anterior em **Direito** com uma nova trajetória em tecnologia — uma combinação que fortaleceu minha capacidade de **analisar problemas, organizar informações, interpretar requisitos e buscar soluções**.
+Tenho interesse em transformar ideias e problemas em soluções por meio da tecnologia. Atualmente, estou aprofundando meus conhecimentos em C#, .NET, APIs, Python, bancos de dados, Git e GitHub, sempre buscando colocar o aprendizado em prática por meio de projetos.
 
-Atualmente, venho aprofundando meus conhecimentos em **C#, .NET, APIs, Python, bancos de dados, Git e GitHub**, transformando conhecimento teórico em projetos práticos.
+Minha formação anterior em Direito também faz parte da minha trajetória e contribuiu para desenvolver habilidades como análise, organização, atenção aos detalhes e resolução de problemas, competências que hoje levo para a área de tecnologia.
 
 <div align="center">
 
