@@ -54,7 +54,7 @@ Olá! 👋 Sou **Nathanaiane**, estudante de **Análise e Desenvolvimento de Sis
 
 Tenho interesse em transformar ideias e problemas em soluções por meio da tecnologia. Atualmente, estou aprofundando meus conhecimentos em **C#, .NET, APIs, Python, HTML, CSS, JavaScript, bancos de dados, Git e GitHub**, sempre buscando colocar o aprendizado em prática por meio de projetos.
 
-Minha formação anterior em **Direito** também faz parte da minha trajetória e contribuiu para desenvolver habilidades como **análise, organização, atenção aos detalhes e resolução de problemas** — competências que hoje levo para a área de tecnologia.
+Minha formação anterior em **Direito** também faz parte da minha trajetória e contribuiu para desenvolver habilidades como **análise, organização, atenção aos detalhes e resolução de problemas**, competências que hoje levo para a área de tecnologia.
 
 🚀 Estou constantemente aprendendo, desenvolvendo projetos e explorando novas tecnologias para evoluir como **desenvolvedora de software**.
 
