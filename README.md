@@ -208,17 +208,17 @@ $ systemctl status career
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nathanaiane&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=FF69B4&icon_color=FFB6D9&text_color=F8F8F2&rank_icon=github" width="48%" />
+<img
+  src="./profile/stats.svg"
+  alt="GitHub Stats"
+  width="48%"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanaiane&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=FF69B4&text_color=F8F8F2" width="42%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Nathanaiane&theme=radical&hide_border=true&background=0D1117&ring=FF69B4&fire=FFB6D9&currStreakLabel=FF69B4" width="70%" />
+<img
+  src="./profile/top-langs.svg"
+  alt="Top Languages"
+  width="42%"
+/>
 
 </div>
 
