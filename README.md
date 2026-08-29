@@ -229,7 +229,7 @@ $ systemctl status career
 <div align="center">
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Nathanaiane&theme=react-dark"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Nathanaiane&bg_color=0D1117&color=FF69B4&line=DB4B9A&point=FFB6D9&area=true&hide_border=true"
   alt="Nathanaiane GitHub Activity Graph"
   width="95%"
 />
