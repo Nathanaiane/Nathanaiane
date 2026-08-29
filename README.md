@@ -264,7 +264,7 @@ $ systemctl status career
 
 <div align="center">
 
-## ฅ^•ﻌ•^ฅ `NATHANAIANE.OS` ฅ^•ﻌ•^ฅ
+## 🐱 NATHANAIANE 🐱
 
 ```text
 ╭────────────────────────────────────────────────────────────╮
@@ -284,6 +284,6 @@ $ systemctl status career
 
 <br><br>
 
-<sub>© 2026 Nathanaiane • All systems operational. ฅ^•ﻌ•^ฅ</sub>
+<sub>© 2026 Nathanaiane • All systems operational. 🐱</sub>
 
 </div>
