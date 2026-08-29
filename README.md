@@ -228,11 +228,7 @@ $ systemctl status career
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/Nathanaiane/Nathanaiane/output/activity-graph.svg"
-  alt="Nathanaiane GitHub Activity Graph"
-  width="95%"
-/>
+<img src="https://raw.githubusercontent.com/Nathanaiane/Nathanaiane/output/activity-graph.svg" alt="Nathanaiane GitHub Activity Graph" width="95%">
 
 </div>
 
