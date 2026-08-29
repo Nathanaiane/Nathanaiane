@@ -224,16 +224,6 @@ $ systemctl status career
 
 ---
 
-# `> ACTIVITY_GRAPH`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Nathanaiane/Nathanaiane/output/activity-graph.svg" alt="Nathanaiane GitHub Activity Graph" width="95%">
-
-</div>
-
----
-
 # `> CONTRIBUTION_MATRIX`
 
 <div align="center">
